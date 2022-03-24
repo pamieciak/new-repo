@@ -1,4 +1,5 @@
-console.log('Hello! World');
-console.error('michal was here');
-console.log('!');
-console.log('pozyczka byl here też')
+console.log("Hello! World");
+console.log("krystian was here również");
+console.error("michał was here");
+console.log("!");
+console.log("pożyczka was here też");
