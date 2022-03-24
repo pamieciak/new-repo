@@ -1,3 +1,1 @@
-console.log(1 + 1);
-console.log("OMAMALE");
-console.log("XDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDD");
+console.log("out");
